@@ -30,10 +30,10 @@ python train.py --help
 # Running Tests (WORK-IN-PROGRESS)
 python test.py
 ```
-# Citation
-```
-# If you use this project in your research please cite:
 
+# Citation
+# If you use this project in your research please cite:
+```
 @inproceedings{ICCV_2021,
          author = {Leron Julian},
          title = {Precise Forecasting of Sky Images Using Spatial Warping},
