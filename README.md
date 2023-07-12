@@ -32,7 +32,7 @@ python test.py
 ```
 
 # Citation
-# If you use this project in your research please cite:
+if you use this project in your research please cite:
 ```
 @inproceedings{ICCV_2021,
          author = {Leron Julian},
