@@ -52,7 +52,7 @@ Please refer to their webpage for installation and implementation
 # Citation
 If you use this project in your research please cite:
 ```
-@INPROCEEDINGS{9607814,
+@INPROCEEDINGS{SkyNet:ICCVW21,
   author={Julian, Leron and Sankaranarayanan, Aswin C.},
   booktitle={2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)}, 
   title={Precise Forecasting of Sky Images Using Spatial Warping}, 
