@@ -52,12 +52,12 @@ Please refer to their webpage for installation and implementation
 # Citation
 If you use this project in your research please cite:
 ```
-@inproceedings{ICCV_2021,
-         author = {Leron Julian},
-         title = {Precise Forecasting of Sky Images Using Spatial Warping},
-         booktitle = {In Proceedings of the IEEE/CVF International Conference on Computer Vision},
-         year = {2021}
-     }
+@INPROCEEDINGS{9607814,
+  author={Julian, Leron and Sankaranarayanan, Aswin C.},
+  booktitle={2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)}, 
+  title={Precise Forecasting of Sky Images Using Spatial Warping}, 
+  year={2021},
+  }
 ```
 
 
