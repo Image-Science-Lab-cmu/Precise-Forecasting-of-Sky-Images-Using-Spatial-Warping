@@ -18,17 +18,17 @@ pip install -r requirements.txt
 
 ```shell
 # How to train the model with default parameters:
-    python train.py
+python train.py
 ```
 
 ```shell
 # For info about command-line flags use
-    python train.py --help
+python train.py --help
 ```
 
 ```shell
 # Running Tests (WORK-IN-PROGRESS)
-    python test.py
+python test.py
 ```
 # Citation
 ```
