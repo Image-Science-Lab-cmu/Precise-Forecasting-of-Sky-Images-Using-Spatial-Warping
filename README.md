@@ -39,11 +39,6 @@ python train.py
 python train.py --help
 ```
 
-```shell
-# Running Tests (WORK-IN-PROGRESS)
-python test.py
-```
-
 # Thanks
 This project makes use of LiteFlowNet for optical-flow estimates:
 * [LiteFlowNet2](https://github.com/twhui/LiteFlowNet) for lightweight optical-flow estimates using a CNN
