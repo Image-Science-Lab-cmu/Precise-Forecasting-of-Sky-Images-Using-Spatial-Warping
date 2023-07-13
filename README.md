@@ -46,7 +46,7 @@ python test.py
 
 # Thanks
 This project makes use of LiteFlowNet for optical-flow estimates:
-* [LiteFlowNet2](https://github.com/twhui/LiteFlowNet2) for lightweight optical-flow estimates using a CNN
+* [LiteFlowNet2](https://github.com/twhui/LiteFlowNet) for lightweight optical-flow estimates using a CNN
 Please refer to their webpage for installation and implementation
 
 # Citation
