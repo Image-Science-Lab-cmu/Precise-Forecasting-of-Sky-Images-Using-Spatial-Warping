@@ -18,6 +18,9 @@ Sankaranarayanan</a></b></h4>
 # To download dataset for train and test data:
 pip install gdown
 gdown --folder --id 1BkWx0j6Kt5G8CEMzzREprMeoYfw0v4ge
+
+#If you run into an inssue requesting permission, update gdown first, then re-run the above command:
+pip install --upgrade --no-cache-dir gdown
  ```
 
 # Installation
