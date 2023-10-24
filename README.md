@@ -42,6 +42,11 @@ python train.py
 python train.py --help
 ```
 
+```shell
+# NOTE: Make sure that your Pytorch, CUDA, and CuPuy Version Match:
+pip install cupy-cuda11x
+```
+
 # Thanks
 This project makes use of LiteFlowNet for optical-flow estimates:
 * [LiteFlowNet2](https://github.com/twhui/LiteFlowNet) for lightweight optical-flow estimates using a CNN
