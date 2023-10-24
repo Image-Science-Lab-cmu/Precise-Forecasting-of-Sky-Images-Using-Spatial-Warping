@@ -43,7 +43,7 @@ python train.py --help
 ```
 
 ```shell
-# NOTE: Make sure that your Pytorch, CUDA, and CuPuy Version Match:
+# NOTE: Make sure that your Pytorch, CUDA, and CuPuy Version Match and install Python Versiion >= 3.8:
 pip install cupy-cuda11x
 ```
 
